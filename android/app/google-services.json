@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026269779337",
+    "project_id": "furni-ba2be",
+    "storage_bucket": "furni-ba2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026269779337:android:f7a96eca9b0416daf3fd58",
+        "android_client_info": {
+          "package_name": "com.example.furni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026269779337-eb9g7v10cel7vgfqn5c0ro7nsl17pbl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcErLD_8Qj2NE3TcJSxjV1aHKxJtKudCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026269779337-eb9g7v10cel7vgfqn5c0ro7nsl17pbl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
